@@ -16,11 +16,9 @@
     <img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a software Engineer who spends more time debugging than actually writing code (but hey, that's the job, right?). I specialize in solving problems and turning coffee into code and occasionally into bugs.  
+I'm a passionate engineer dedicated to building clean, efficient, user-friendly applications, and interfaces.
 <br>
-I love building things that make life easier, or at least slightly less annoying. Whether it's crafting clean code, tinkering with new frameworks, or battling the infamous "works on my machine" bug, I'm always up for a challenge.
-<br>
-When I'm not coding, you can find me pretending to understand documentation, Googling error messages like a pro, or taking way too long to name variables (seriously, why is it so hard?).  
+I just code but when I'm not coding, you can find me pretending to understand documentation, Googling error messages like a pro, or taking way too long to name variables (seriously, why is it so hard?).  
 <br>
 Feel free to check out my repos—some are polished projects, others are experiments that may or may not have gone horribly wrong. Either way, let's connect and build something awesome! 🚀
 <br>
