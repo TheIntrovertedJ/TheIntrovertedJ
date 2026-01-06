@@ -1,7 +1,7 @@
 
 # Hello World!, I'm Japhet 👋🏼:
 <p align="center">
-  <a href="https://tobilobajd.vercel.app/" target="_blank">
+  <a href="https://japhycodes.vercel.app/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" />
   </a>
   <a href="#" target="_blank">
@@ -22,7 +22,7 @@ I just code but when I'm not coding, you can find me pretending to understand do
 <br>
 Feel free to check out my repos—some are polished projects, others are experiments that may or may not have gone horribly wrong. Either way, let's connect and build something awesome! 🚀
 <br>
-🛜 currently working on my own [webpage](https://tobilobajd.vercel.app/)<br>
+🛜 currently working on my own [webpage](https://japhycodes.vercel.app/)<br>
 <br>
 P.S. If you find any typos in my code, they’re just Easter eggs. You're welcome. 😎
 
