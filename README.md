@@ -1,7 +1,7 @@
 
 # Hello World!, I'm Japhet 👋🏼:
 <p align="center">
-  <a href="https://dinq.me/admin/mydinq?domain=theintrovertedj" target="_blank">
+  <a href="https://dinq.me/theintrovertedj" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" />
   </a>
   <a href="#" target="_blank">
